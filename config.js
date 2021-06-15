@@ -22,13 +22,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "开始布景",
+        turn_on: "夏部长生日会",
+        play: "音乐开始",
+        bannar_coming: "布景开始",
         balloons_flying: "还有气球",
         cake_fadein: "上蛋糕",
         light_candle: "点蜡烛",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR夏部长",
+        wish_message: "祝夏部长生日快乐！",
+        story: "A MESSAGE FOR YOU",
     }
 };
