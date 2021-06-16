@@ -30,8 +30,8 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "夏部长生日会",
-        play: "音乐开始",
-        bannar_coming: "布景开始",
+        play: "开始音乐",
+        bannar_coming: "开始布景",
         balloons_flying: "布置气球",
         cake_fadein: "上蛋糕",
         light_candle: "点蜡烛",
