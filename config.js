@@ -27,6 +27,7 @@ var config = {
     imgs: {
          "瓜瓜：夏部长生日快乐~": "./imgs/guagua.png",
          "下面我来表演": "./imgs/xiaomao.png",
+         "永远美丽，永远幸福！": "./imgs/xiaomao.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -38,6 +39,6 @@ var config = {
         cake_fadein: "上蛋糕",
         light_candle: "点蜡烛",
         wish_message: "祝夏部长生日快乐！",
-        story: "夏部长请听",
+        story: "夏部长生日会开始~",
     }
 };
