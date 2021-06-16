@@ -33,6 +33,6 @@ var config = {
         cake_fadein: "上蛋糕",
         light_candle: "点蜡烛",
         wish_message: "祝夏部长生日快乐！",
-        story: "A MESSAGE FOR YOU",
+        story: "夏部长请听",
     }
 };
