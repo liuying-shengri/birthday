@@ -12,7 +12,7 @@ var config = {
         "首先请瓜瓜表演", 
         "瓜瓜：夏部长生日快乐~",
         "下面我来表演", 
-        "就祝夏部长生日快乐", 
+        "祝夏部长生日快乐", 
         "永远美丽，永远幸福！", 
     ],
     /**
@@ -38,7 +38,7 @@ var config = {
         balloons_flying: "布置气球",
         cake_fadein: "上蛋糕",
         light_candle: "点蜡烛",
-        wish_message: "祝夏部长生日快乐！",
+        wish_message: "请夏部长落座",
         story: "夏部长生日会开始~",
     }
 };
