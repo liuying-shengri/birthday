@@ -39,6 +39,6 @@ var config = {
         cake_fadein: "上蛋糕",
         light_candle: "点蜡烛",
         wish_message: "请夏部长落座",
-        story: "夏部长生日会开始~",
+        story: "生日会开始~",
     }
 };
