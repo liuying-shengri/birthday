@@ -13,7 +13,8 @@ var config = {
         "瓜瓜：夏部长生日快乐~",
         "下面我来表演", 
         "祝夏部长生日快乐", 
-        "永远美丽，永远幸福！", 
+        "永远美丽，永远幸福！",
+        "HAPPY BIRTHDAY!",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -29,6 +30,7 @@ var config = {
          "下面我来表演": "./imgs/xiaomao.png",
         "祝夏部长生日快乐": "./imgs/xiaomao3.png", 
         "永远美丽，永远幸福！": "./imgs/xiaomao2.png",
+        "HAPPY BIRTHDAY!": "./imgs/maomao.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
